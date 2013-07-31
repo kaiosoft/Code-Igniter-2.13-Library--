@@ -3,7 +3,7 @@
 /**
  *	Copyright (C) Kaio Piranti Lunak
  *	Developer: Fatah Iskandar Akbar
- *       Email : info@kaiogroup.com
+ *      Email : info@kaiogroup.com
  *	Date: Juni 2013
 **/
 
